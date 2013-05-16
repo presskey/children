@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = 'Starts one parent daemon and N child processes'
   s.author      = 'presskey'
   s.email       = 'hello.from.code@gmail.com'
-  s.homepage    = 'http://github.com/presskey/npa'
+  s.homepage    = 'http://github.com/presskey/children'
   
   s.files       = ["lib/children.rb"]
   s.require_paths = ["lib"]
